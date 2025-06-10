@@ -1,5 +1,7 @@
 # bibtex-to-edn
 
+Experimental Quarkus application to convert BibTeX entries to EDN format.
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
